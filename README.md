@@ -1,7 +1,7 @@
 👋 **Pendahuluan**  
 Halo! Ini adalah ringkasan dari Modul Praktikum Basis Data yang menggunakan studi kasus MySQL.
 
-Tujuan utama modul ini adalah untuk mendukung mata kuliah Basis Data dan Sistem Basis Data. Fokus pembelajarannya adalah "best practise sharing", yang artinya lebih banyak menggunakan contoh nyata dan studi kasus. Harapannya, materi jadi lebih mudah dimengerti dan bisa menjadi bekal untuk mata kuliah pemrograman web.
+Tujuan utama modul ini adalah untuk mendukung mata pelajaran Basis Data dan Sistem Basis Data. Fokus pembelajarannya adalah "best practise sharing", yang artinya lebih banyak menggunakan contoh nyata dan studi kasus. Harapannya, materi jadi lebih mudah dimengerti dan bisa menjadi bekal untuk masa depan.
 
 ---
 
